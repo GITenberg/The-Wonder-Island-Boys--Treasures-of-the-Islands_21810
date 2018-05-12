@@ -1,0 +1,27 @@
+_repo: The-Wonder-Island-Boys--Treasures-of-the-Islands_21810
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21810-h/images/cover-spine.jpg
+creator:
+  author:
+    agent_name: Finlay, Roger Thompson
+    birthdate: 1860
+    gutenberg_agent_id: '9407'
+    url: http://www.gutenberg.org/2009/agents/9407
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21810'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Castaways -- Juvenile fiction'
+- !lcsh 'Islands -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'The Wonder Island Boys: Treasures of the Islands'
+url: http://www.gutenberg.org/ebooks/21810
